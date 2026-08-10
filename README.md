@@ -66,7 +66,7 @@ README.md
 ── ifood_cleaned.csv
 notebooks
   ── Marketing_Predictive_Analytics.ipynb
- dashboard
+ Dashboard
    ── MarketingDashboard.pbix
 
 ##Dashboard
