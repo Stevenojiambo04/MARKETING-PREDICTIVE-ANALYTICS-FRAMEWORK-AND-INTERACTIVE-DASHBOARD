@@ -97,7 +97,7 @@ Open the notebook in the notebooks folder using Google Colab or Jupyter Notebook
 Upload the iFood.xlsx dataset when prompted.
 Run the notebook cells in order.
 The notebook performs data preprocessing, exploratory analysis, model development, evaluation, and new-customer prediction.
-Open the Power BI file in the Dashboard folder to explore the interactive dashboard.
+Open the Power BI file in the Dashboard folder to explore the interactive Dashboard.
 
 #Author
 Steven Ojiambo Otieno
