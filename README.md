@@ -57,6 +57,7 @@ Random Forest achieved an accuracy of approximately 82.09% and was selected as t
 - Microsoft Excel
 
 ## Repository Structure
+```text
 
 Marketing-Predictive-Analytics-Framework-and-Interactive-Dashboard
 README.md
@@ -67,6 +68,7 @@ notebooks
   ── Marketing_Predictive_Analytics.ipynb
  Dashboard
    ── MarketingDashboard.pbix
+```
 
 ##Dashboard
 The Power BI Dashboard presents:
@@ -95,7 +97,7 @@ Open the notebook in the notebooks folder using Google Colab or Jupyter Notebook
 Upload the iFood.xlsx dataset when prompted.
 Run the notebook cells in order.
 The notebook performs data preprocessing, exploratory analysis, model development, evaluation, and new-customer prediction.
-Open the Power BI file in the dashboard folder to explore the interactive dashboard.
+Open the Power BI file in the Dashboard folder to explore the interactive dashboard.
 
 #Author
 Steven Ojiambo Otieno
