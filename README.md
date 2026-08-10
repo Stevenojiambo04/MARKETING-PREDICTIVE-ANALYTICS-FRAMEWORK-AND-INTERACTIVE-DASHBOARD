@@ -69,7 +69,7 @@ notebooks
    ── MarketingDashboard.pbix
 
 ##Dashboard
-The Power BI dashboard presents:
+The Power BI Dashboard presents:
 
 Customer demographics
 Customer spending patterns
