@@ -23,10 +23,10 @@ The project uses the iFood Marketing Campaign dataset.
 
 The dataset contains information about customer demographics, income, purchasing behaviour, product expenditure, sales channels, and campaign responses.
 
-The `data` folder contains:
+The data folder contains:
 
-- `iFood.xlsx` – Original dataset.
-- `ifood_cleaned.csv` – Cleaned and processed dataset used for analysis and dashboard development.
+- iFood.xlsx – Original dataset.
+- ifood_cleaned.csv – Cleaned and processed dataset used for analysis and dashboard development.
 
 ## Machine Learning
 
@@ -58,7 +58,6 @@ Random Forest achieved an accuracy of approximately 82.09% and was selected as t
 
 ## Repository Structure
 
-```text
 Marketing-Predictive-Analytics-Framework-and-Interactive-Dashboard
 README.md
  data
@@ -99,7 +98,7 @@ The notebook performs data preprocessing, exploratory analysis, model developmen
 Open the Power BI file in the dashboard folder to explore the interactive dashboard.
 
 #Author
-Steven Ojiambo
+Steven Ojiambo Otieno
 
 Academic Project
 
